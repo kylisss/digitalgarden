@@ -19,3 +19,4 @@ hello👋，我是 Kylis，一个 To B 产品。
 [[Pages/菜谱|菜谱]]
 ## 游戏
 [[Pages/Splatoon3|Splatoon3]]
+1
