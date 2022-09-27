@@ -16,7 +16,7 @@ hello👋，我是 Kylis，一个 To B 产品。
 最后，奉上本站的[[Pages/🧭导览地图|🧭导览地图]] ⬇️。
 ***
 ## 效率
-[[PicGo|PicGo]]
+[[Pages/PicGo|PicGo]]
 ## 生活
 [[Pages/菜谱|菜谱]]
 ## 游戏
