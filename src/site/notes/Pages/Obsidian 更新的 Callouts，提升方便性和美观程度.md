@@ -2,6 +2,10 @@
 {"dg-publish":true,"dg-permalink":"/pages/cc-2022-09-26-215713/","permalink":"/pages/cc-2022-09-26-215713/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# Obsidian 更新的 Callouts，提升方便性和美观程度
+
+> [!quote] 本文剪藏自[Obsidian更新的Callouts，提升方便性和美观程度 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/494647464)
+
 在 Obsidian 最新更新的 14.0 版本中，终于上线了 “Callout” 功能。
 
 使用这样的符号就可以启用 callout 模块: `> [!INFO]`.
