@@ -6,7 +6,7 @@
 ***
 ## 游戏视频
 #### 我的首次四杀片段-SPLATOON3 首次四杀 英雄射击枪（小绿）无敌
-<iframe src="https://onedrive.live.com/embed?cid=38BC14B4A8ED00FC&resid=38BC14B4A8ED00FC%2140503&authkey=ABw5JgiE60gnxxQ"allowfullscreen></iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1CG4y1s7eF&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 装备
 #### 服装品牌的追加技能倾向
