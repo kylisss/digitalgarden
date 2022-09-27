@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/pages/pic-go-v2-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"/pages/PicGo v2.2 更新，快捷键系统与一波插件推荐/","permalink":"/pages/PicGo v2.2 更新，快捷键系统与一波插件推荐/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # PicGo v2.2 更新，快捷键系统与一波插件推荐 
 
-> [!info] 本文剪藏自[PicGo v2.2 更新，快捷键系统与一波插件推荐 - 少数派 (sspai.com)](https://sspai.com/post/58223)
+> [!quote] 本文剪藏自[PicGo v2.2 更新，快捷键系统与一波插件推荐 - 少数派 (sspai.com)](https://sspai.com/post/58223)
 
 ## 前言
 
