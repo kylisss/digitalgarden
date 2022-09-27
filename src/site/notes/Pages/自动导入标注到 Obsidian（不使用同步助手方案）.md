@@ -2,8 +2,9 @@
 {"dg-publish":true,"dg-permalink":"/pages/cc-2022-09-13-172356/","permalink":"/pages/cc-2022-09-13-172356/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# 自动导入标注到 Obsidian（不使用同步助手方案）
 
-[[Pages/Obsidian技巧|Obsidian技巧]]
+> [!quote] 本文剪藏自[自动导入标注到 Obsidian（不使用同步助手方案） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/501251603)
 
 导入到 Obsdian 插件升级到 1.2.0，增加了自动导入标注到 Obsidian 的功能，此文为一站式配置教程，查看此插件的文档说明，请 [前往这里](https://link.zhihu.com/?target=https%3A//github.com/Kenshin/simpread/discussions/2902)。
 
