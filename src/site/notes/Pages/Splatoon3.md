@@ -5,8 +5,8 @@
 # Splatoon3
 ***
 ## 游戏视频
-#### 我的首次四杀片段-SPLATOON3 首次四杀 英雄射击枪（小绿）无敌
 
+🔫 我的首次四杀片段-SPLATOON3 首次四杀 英雄射击枪（小绿）无敌
 <iframe src="https://player.bilibili.com/player.html?bvid=BV1CG4y1s7eF&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%"  scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## 装备
