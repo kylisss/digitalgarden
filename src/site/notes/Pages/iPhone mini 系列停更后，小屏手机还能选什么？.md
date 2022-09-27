@@ -4,10 +4,7 @@
 
 # iPhone mini 系列停更后，小屏手机还能选什么？
 
-> [!quote] 本文剪藏自[iPhone mini 系列停更后，小屏手机还能选什么？](https://sspai.com/post/75884)
-
-> [!info] Title
-
+> [!info] 本文剪藏自[iPhone mini 系列停更后，小屏手机还能选什么？](https://sspai.com/post/75884)
 
 9 月 8 日的 iPhone 14 系列发布会坐实了此前就传得沸沸扬扬的 iPhone mini 系列停更的消息，让一众小屏手机爱好者美梦破碎。在更多消费者和厂商都选择了大屏的当下，小屏手机爱好者的选择越来越少。
 
