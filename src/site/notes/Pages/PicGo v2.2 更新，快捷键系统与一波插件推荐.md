@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/pages/PicGo-v2.2-更新，快捷键系统与一波插件推荐/","permalink":"/pages/PicGo-v2.2-更新，快捷键系统与一波插件推荐/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"/pages/cc-2022-09-27-113615/","permalink":"/pages/cc-2022-09-27-113615/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # PicGo v2.2 更新，快捷键系统与一波插件推荐 
